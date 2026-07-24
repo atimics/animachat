@@ -48,10 +48,10 @@ echo "Pricing Summary:"
 echo "==============="
 echo ""
 echo "Haiku models: FREE for all users (100% subsidized)"
-echo "Sonnet models: ~83% subsidized ($0.50/$2.50 vs $3/$15)"
-echo "Opus models: 80% subsidized ($3/$15 vs $15/$75)"
+echo 'Sonnet models: ~83% subsidized ($0.50/$2.50 vs $3/$15)'
+echo 'Opus models: 80% subsidized ($3/$15 vs $15/$75)'
 echo "GPT-3.5: FREE for all users"
-echo "GPT-4: 80% subsidized ($2/$6 vs $10/$30)"
+echo 'GPT-4: 80% subsidized ($2/$6 vs $10/$30)'
 echo "Llama models: FREE for all users"
 echo ""
 echo "Note: This configuration gives users heavily subsidized access to AI models."
